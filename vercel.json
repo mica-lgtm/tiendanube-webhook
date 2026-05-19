@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "functions": {
+    "api/webhooks.js": {
+      "memory": 128,
+      "maxDuration": 30
+    }
+  },
+  "env": {
+    "TIENDANUBE_APP_ID": "@tiendanube_app_id",
+    "TIENDANUBE_APP_SECRET": "@tiendanube_app_secret"
+  }
+}
