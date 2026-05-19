@@ -7,7 +7,7 @@
     }
   },
   "env": {
-    "TIENDANUBE_APP_ID": "@tiendanube_app_id",
-    "TIENDANUBE_APP_SECRET": "@tiendanube_app_secret"
+    "TIENDANUBE_APP_ID": "32101",
+    "TIENDANUBE_APP_SECRET": "e9c5af67d3c47bcf82ae013a9c6e7b3b05d40bbd74e07ca6"
   }
 }
